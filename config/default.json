@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "",
-  "db": "mongodb://localhost/s-movie"
+  "db": "mongodb+srv://juanadmin:Juan@198103@cluster0.z0sd1.mongodb.net/smovie?retryWrites=true&w=majority"
 }
