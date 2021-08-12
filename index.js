@@ -26,5 +26,5 @@ require('./startup/prod')(app);
 /* SERVER LISTENER */
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
-  winston.info(`Server listening on ${port}`);
+  winston.info(`Server running on the local port ${port}`);
 });
